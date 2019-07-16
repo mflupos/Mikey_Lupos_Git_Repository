@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+/home/mikey/Documents/GitHub/Mikey_Lupos_Git_Repository/STS4_Workbench/.metadata/.plugins/org.eclipse.jdt.core
+3502468774.index

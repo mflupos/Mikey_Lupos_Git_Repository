@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<connections>
+<connection name="unix:///var/run/docker.sock" uri="unix:///var/run/docker.sock"/>
+<connection name="https://1.2.3.4:5678" uri="https://1.2.3.4:5678" cert="/foo/bar/baz/certs"/>
+<connection name="unix:///foo/bar/baz/docker.sock" uri="unix:///foo/bar/baz/docker.sock"/>
+</connections>
